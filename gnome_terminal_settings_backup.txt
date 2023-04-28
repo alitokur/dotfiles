@@ -24,8 +24,8 @@ visible-name='alitokur (Copy)'
 
 [legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
 audible-bell=false
-background-color='rgb(34,35,45)'
-background-transparency-percent=11
+background-color='rgb(21,21,27)'
+background-transparency-percent=3
 bold-color-same-as-fg=false
 bold-is-bright=false
 cursor-blink-mode='on'
@@ -39,7 +39,7 @@ foreground-color='rgb(255,255,255)'
 highlight-background-color='rgb(255,247,247)'
 highlight-colors-set=true
 highlight-foreground-color='rgb(143,66,66)'
-palette=['rgb(23,20,33)', 'rgb(217,220,130)', 'rgb(91,247,141)', 'rgb(255,145,208)', 'rgb(180,139,239)', 'rgb(162,97,178)', 'rgb(173,174,53)', 'rgb(96,135,175)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(51,209,122)', 'rgb(233,173,12)', 'rgb(108,67,139)', 'rgb(192,97,203)', 'rgb(70,82,84)', 'rgb(175,120,120)']
+palette=['rgb(23,20,33)', 'rgb(183,186,78)', 'rgb(91,247,141)', 'rgb(108,147,122)', 'rgb(180,139,239)', 'rgb(162,97,178)', 'rgb(173,174,53)', 'rgb(96,135,175)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(79,176,154)', 'rgb(233,173,12)', 'rgb(108,67,139)', 'rgb(192,97,203)', 'rgb(70,82,84)', 'rgb(175,120,120)']
 scrollback-lines=40000000
 use-system-font=false
 use-theme-colors=false
