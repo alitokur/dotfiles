@@ -79,6 +79,8 @@ zstyle ':omz:update' mode auto      # update automatically without asking
 plugins=(
     git
     macos
+    zsh-autosuggestions
+    zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
