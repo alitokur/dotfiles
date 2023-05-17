@@ -1,2 +1,2 @@
-cp  ~/.p10k.zsh ~/dotfiles/
-cp  ~/.zshrc ~/dotfiles/
+cp  ~/.p10k.zsh ~/dotfiles/linux/
+cp  ~/.zshrc ~/dotfiles/linux/
