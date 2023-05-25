@@ -97,6 +97,7 @@ export LANG=en_US.UTF-8
 export EDITOR='nvim'
 # fi
 
+bindkey -e
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
