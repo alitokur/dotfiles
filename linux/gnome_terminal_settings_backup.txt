@@ -7,7 +7,7 @@ visible-name='test'
 
 [legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
 audible-bell=false
-background-color='rgb(38,38,45)'
+background-color='rgb(32,32,37)'
 background-transparency-percent=0
 bold-color='rgb(249,249,249)'
 bold-color-same-as-fg=false
@@ -19,12 +19,12 @@ cursor-foreground-color='rgb(0,0,0)'
 cursor-shape='block'
 default-size-columns=85
 default-size-rows=66
-font='SFMono Nerd Font 11'
+font='Cascursive 11'
 foreground-color='rgb(255,255,255)'
 highlight-background-color='rgb(255,247,247)'
 highlight-colors-set=true
 highlight-foreground-color='rgb(143,66,66)'
-palette=['rgb(20,19,20)', 'rgb(224,69,69)', 'rgb(32,237,98)', 'rgb(255,145,208)', 'rgb(180,139,239)', 'rgb(123,40,144)', 'rgb(109,167,184)', 'rgb(115,124,133)', 'rgb(94,92,100)', 'rgb(234,220,218)', 'rgb(79,176,154)', 'rgb(233,173,12)', 'rgb(108,67,139)', 'rgb(192,97,203)', 'rgb(70,82,84)', 'rgb(230,203,203)']
+palette=['rgb(20,19,20)', 'rgb(224,69,69)', 'rgb(202,125,207)', 'rgb(140,206,136)', 'rgb(180,139,239)', 'rgb(123,40,144)', 'rgb(109,167,184)', 'rgb(115,124,133)', 'rgb(94,92,100)', 'rgb(234,220,218)', 'rgb(79,176,154)', 'rgb(233,173,12)', 'rgb(108,67,139)', 'rgb(139,230,92)', 'rgb(70,82,84)', 'rgb(230,203,203)']
 scrollback-lines=40000000
 text-blink-mode='never'
 use-system-font=false
