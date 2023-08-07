@@ -78,6 +78,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 plugins=(
     git
     zsh-syntax-highlighting
+    auto-color-ls
     zsh-autosuggestions
 )
 
@@ -115,3 +116,4 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
+alias lc='colorls -lA --sd'
