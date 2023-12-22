@@ -117,3 +117,7 @@ source ~/powerlevel10k/powerlevel10k.zsh-theme
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 alias lc='colorls -lA --sd'
+alias ls='colorls'
+
+alias position_monitor='java -jar "/home/alitokur/Softwares/position_monitor/dist/PositionMonitor.jar" -C /home/alitokur/network -M B3_BINARY -E Production'
+alias position_monitor_test='java -jar "/home/alitokur/Softwares/position_monitor/dist/PositionMonitor.jar" -C /home/alitokur/Softwares/trading_system/network -M B3 -E Test'

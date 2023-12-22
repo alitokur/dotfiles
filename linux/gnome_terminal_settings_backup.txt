@@ -1,17 +1,19 @@
 [legacy/profiles:]
-default='b1dcc9dd-5262-4d8d-a863-c897e6d979b9'
+default='21dd13e4-1903-4824-8cde-a58d8e1858f3'
 list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '21dd13e4-1903-4824-8cde-a58d8e1858f3']
 
 [legacy/profiles:/:21dd13e4-1903-4824-8cde-a58d8e1858f3]
+palette=['rgb(23,20,33)', 'rgb(192,28,40)', 'rgb(191,70,93)', 'rgb(209,200,73)', 'rgb(127,137,175)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(76,160,103)', 'rgb(233,173,12)', 'rgb(42,123,222)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-theme-colors=true
 visible-name='test'
 
 [legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
 audible-bell=false
-background-color='rgb(12,12,15)'
+background-color='rgb(46,52,54)'
 background-transparency-percent=0
-bold-color='rgb(249,249,249)'
+bold-color='rgb(190,94,184)'
 bold-color-same-as-fg=false
-bold-is-bright=false
+bold-is-bright=true
 cell-height-scale=1.0
 cell-width-scale=1.0
 cursor-blink-mode='on'
@@ -20,16 +22,16 @@ cursor-foreground-color='rgb(0,0,0)'
 cursor-shape='underline'
 default-size-columns=85
 default-size-rows=66
-font='Cascadia Code 11'
-foreground-color='rgb(255,255,255)'
-highlight-background-color='rgb(255,247,247)'
+font='JetBrains Mono 11'
+foreground-color='rgb(211,215,207)'
+highlight-background-color='rgb(255,255,255)'
 highlight-colors-set=true
 highlight-foreground-color='rgb(143,66,66)'
-palette=['rgb(20,19,20)', 'rgb(224,69,69)', 'rgb(168,180,168)', 'rgb(140,206,136)', 'rgb(233,87,25)', 'rgb(171,193,109)', 'rgb(109,167,184)', 'rgb(115,124,133)', 'rgb(94,92,100)', 'rgb(234,220,218)', 'rgb(79,176,154)', 'rgb(233,173,12)', 'rgb(108,67,139)', 'rgb(88,99,83)', 'rgb(70,82,84)', 'rgb(230,203,203)']
+palette=['rgb(20,19,20)', 'rgb(149,181,165)', 'rgb(78,243,1)', 'rgb(199,213,92)', 'rgb(187,127,195)', 'rgb(171,193,109)', 'rgb(92,155,173)', 'rgb(115,124,133)', 'rgb(94,92,100)', 'rgb(235,82,60)', 'rgb(79,176,154)', 'rgb(135,162,110)', 'rgb(108,67,139)', 'rgb(88,99,83)', 'rgb(205,202,143)', 'rgb(236,186,186)']
 scrollback-lines=40000000
 text-blink-mode='never'
 use-system-font=false
-use-theme-colors=false
+use-theme-colors=true
 use-theme-transparency=false
 use-transparent-background=true
 visible-name='alitokur'
