@@ -9,7 +9,7 @@ fi
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="~/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -120,4 +120,4 @@ alias lc='colorls -lA --sd'
 alias ls='colorls'
 
 alias position_monitor='java -jar "/home/alitokur/Softwares/position_monitor/dist/PositionMonitor.jar" -C /home/alitokur/network -M B3_BINARY -E Production'
-alias position_monitor_test='java -jar "/home/alitokur/Softwares/position_monitor/dist/PositionMonitor.jar" -C /home/alitokur/Softwares/trading_system/network -M B3 -E Test'
+alias position_monitor_test='java -jar "/home/alitokur/Softwares/position_monitor/dist/PositionMonitor.jar" -C /home/alitokur/Softwares/trading_system/network -M XIST -E Test'

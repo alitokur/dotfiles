@@ -3,7 +3,9 @@ default='21dd13e4-1903-4824-8cde-a58d8e1858f3'
 list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '21dd13e4-1903-4824-8cde-a58d8e1858f3']
 
 [legacy/profiles:/:21dd13e4-1903-4824-8cde-a58d8e1858f3]
+font='JetBrainsMonoNL Nerd Font 11'
 palette=['rgb(23,20,33)', 'rgb(192,28,40)', 'rgb(191,70,93)', 'rgb(209,200,73)', 'rgb(127,137,175)', 'rgb(163,71,186)', 'rgb(42,161,179)', 'rgb(208,207,204)', 'rgb(94,92,100)', 'rgb(246,97,81)', 'rgb(76,160,103)', 'rgb(233,173,12)', 'rgb(42,123,222)', 'rgb(192,97,203)', 'rgb(51,199,222)', 'rgb(255,255,255)']
+use-system-font=false
 use-theme-colors=true
 visible-name='test'
 
